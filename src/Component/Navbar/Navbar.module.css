@@ -1,0 +1,61 @@
+
+.header{
+    display: flex;
+color: white;
+    background-color:#1c939e;
+justify-content: center;
+align-items: center;
+column-gap: 70%;
+font-size:18px;
+    
+}
+.location_logo{
+    display: flex;
+    align-items: center;
+}
+.header_part{
+    display: flex;
+    column-gap: 10px;
+}
+.header_part div p {
+    margin-right: 20px;
+  }
+  .header div p:hover {
+   color:orange;
+   cursor: pointer;
+   
+  }
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    column-gap:400px;
+    
+}
+.heading{
+    font-size:35px;
+    color:#1c939e;
+}
+.navitems{
+    display: flex;
+    column-gap: 60px;
+    justify-content: flex-end;
+    align-items:center;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color:rgb(39, 39, 39);
+
+    
+
+}
+li:hover{
+    color:orange
+}
+
+
+.navitems li{
+    list-style-type: none;
+    cursor: pointer;
+
+}

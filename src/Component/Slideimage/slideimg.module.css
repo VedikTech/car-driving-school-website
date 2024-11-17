@@ -1,0 +1,19 @@
+.img{
+    width: 100%; /* or any specific width */
+    height: auto; /* Maintains aspect ratio */
+    object-fit: cover; 
+
+}
+.imgbox{
+    display: flex;
+    justify-content: center;
+   
+   border:none;
+}
+.slide_box{
+    display: flex;
+    justify-content: space-around;
+    width:100%;
+    align-items: center;
+    
+}
