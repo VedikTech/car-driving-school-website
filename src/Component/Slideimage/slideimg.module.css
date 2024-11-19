@@ -1,6 +1,6 @@
 .img{
-    width: 100%; /* or any specific width */
-    height: auto; /* Maintains aspect ratio */
+    width: 1500px ;/* or any specific width */
+    height: 800px; /* Maintains aspect ratio */
     object-fit: cover; 
 
 }

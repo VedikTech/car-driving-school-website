@@ -1,0 +1,30 @@
+img{
+    width:500px;
+    height:500px
+}
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    text-underline-offset:  40px;
+    text-decoration-color: orange;
+    text-transform: uppercase;
+    margin-top: 140px;
+   font-size: 40px;
+   letter-spacing: 2px;
+margin-bottom: 100px;
+
+}
+.table{
+    margin: auto;
+    width:70%;
+  
+     margin-bottom:"300px";
+text-align: center;
+margin-bottom:200px;
+border-collapse: collapse;
+border-color:rgb(210, 206, 206)
+
+}
+td{
+    width:400px;
+}
