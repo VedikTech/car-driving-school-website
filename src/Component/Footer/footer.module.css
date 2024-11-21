@@ -1,0 +1,25 @@
+.Footer_part{
+    width:1400px;
+    height:400px;
+    background-color:rgb(32, 31, 31);
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    row-gap:80px;
+}
+.Footer_part p {
+    color:grey;
+}
+.Adress_box{
+    display: flex;
+   column-gap: 340px;
+    justify-content: center;
+    align-items: center;
+}
+.navigation_list{
+    list-style-type:none;
+    color:grey;
+}
