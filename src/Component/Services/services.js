@@ -2,10 +2,11 @@ import React from 'react';
 import img5 from '../../assets/photo5.webp';
 import styles from "./service.module.css";
 import Servicescard from "./servicescard.js"
+import Headings from "./headings.js";
 export const Services = () => {
   return (
     <div>
-      <h1 className={styles.heading}>Our Services</h1>
+      <Headings heading="Our Services"/>
       <table border="1px" className={styles.table} >
       
       <tr>

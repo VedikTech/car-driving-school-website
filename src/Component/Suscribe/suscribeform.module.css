@@ -1,0 +1,26 @@
+.subscriber_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    margin-bottom:100px;
+    width:1400px;
+    height:500px;
+    background-color:rgb(186, 206, 208);
+    margin:auto;
+}
+.subscribe_form input{
+ height:50px;
+}
+.subscribe_form{
+    display: flex;
+    column-gap: 20px;
+
+}
+.subscribe_button{
+    background-color: orange;
+    color:white;
+    font-size:15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}

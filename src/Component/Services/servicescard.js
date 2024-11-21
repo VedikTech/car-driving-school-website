@@ -8,7 +8,7 @@ function Servicescard(props) {
 <div className={styles.icon}><i className={props.img}></i></div>
   <h3>{props.heading}</h3>
 
-<p>{props.para}</p>
+<p className={styles.services_para}>{props.para}</p>
   
     </div>
   )
