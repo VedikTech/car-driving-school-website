@@ -1,6 +1,7 @@
+
 img{
-    width:500px;
-    height:700px
+    width:600px;
+    height:800px
 }
 .heading{
     text-align: center;
@@ -16,11 +17,12 @@ margin-bottom: 100px;
 }
 .table{
     margin: auto;
-    width:70%;
+    width:75%;
   
     
 text-align: center;
 margin-bottom:100px;
+box-sizing: border-box;
 border-collapse: collapse;
 border-color:rgb(230, 227, 227)
 

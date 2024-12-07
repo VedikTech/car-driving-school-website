@@ -2,7 +2,7 @@
 .header{
     display: flex;
 color: white;
-    background-color:#1c939e;
+    background-color:rgb(28, 147, 158);
 justify-content: center;
 align-items: center;
 column-gap: 70%;
@@ -49,7 +49,7 @@ font-size:18px;
     
 
 }
-li:hover{
+.navitems li:hover{
     color:orange
 }
 
